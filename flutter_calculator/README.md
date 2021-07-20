@@ -1,6 +1,9 @@
 # flutter_calculator
 
-A new Flutter project.
+
+![bannercalculator](https://user-images.githubusercontent.com/71002261/126274982-84c0a983-92a4-4521-8495-99c1f2126255.png)
+
+Just Calculator App
 
 ## Getting Started
 
